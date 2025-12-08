@@ -10,6 +10,15 @@ console.log(footer)
 const herosection = 'hero section'
 console.log(herosection)
 
+const our = 'our'
+console.log(our)
+
+const creative = 'creative'
+console.log(creative)
+
+const coupling = 'coupling'
+console.log(coupling)
+
 const padding = 'padding'
 console.log(padding)
 
