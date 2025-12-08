@@ -18,3 +18,15 @@ console.log(creative)
 
 const coupling = 'coupling'
 console.log(coupling)
+
+const padding = 'padding'
+console.log(padding)
+
+const bopper = 'booper'
+console.log(bopper)
+
+const lost = 'lost'
+console.log(lost)
+
+const hello = 'hello'
+console.log(hello)
