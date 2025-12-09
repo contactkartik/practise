@@ -30,3 +30,6 @@ console.log(lost)
 
 const hello = 'hello'
 console.log(hello)
+
+const paper = 'paper'
+console.log(paper)
