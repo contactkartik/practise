@@ -30,3 +30,15 @@ console.log(lost)
 
 const hello = 'hello'
 console.log(hello)
+
+const replace = 'replace'
+console.log(replace)
+
+const redo = 'redo'
+console.log(redo)
+
+const feature = 'feture'
+console.log(feature)
+
+const vlogs = 'vlogs'
+console.log(vlogs)
